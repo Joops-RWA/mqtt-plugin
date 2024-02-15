@@ -1,13 +1,9 @@
-# MQTT plugin for Ark Ecosystem
+# MQTT plugin for Joops R.W.A.
 
 MQTT plugin that broadcasts events to an MQTT broker. At the moment this plugin only broadcasts but
 might be extended with additional features as well as including an MQTT server so users won't have
 to run a separate MQTT broker.
 
-If you have any feature requests don't forget to open an Issue.
-
-#### ❤️ Support maintenance and development of plugins
-If you find this or other plugins useful please consider voting for `deadlock` delegate on Solar or Ark networks.
 
 ## Installation
 
